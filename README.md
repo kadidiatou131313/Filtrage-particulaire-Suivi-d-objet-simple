@@ -57,7 +57,7 @@ Le notebook combine **modélisation du mouvement**, **simulation des mesures**, 
 ## Contenu du dépôt
 
 * `particle_filter.ipynb` — Notebook principal contenant l’implémentation complète.
-* `data/` 
+* `escrime-4-3.avi` 
 * `README.md` — Présentation du projet.
 
 ---
@@ -134,7 +134,7 @@ The notebook integrates **motion modeling**, **measurement simulation**, **resam
 ## Repository Content
 
 * `particle_filter.ipynb` — Main notebook containing the full implementation.
-* `data/` 
+* `escrime-4-3.avi` 
 * `README.md` — Project overview and documentation.
 
 ---
